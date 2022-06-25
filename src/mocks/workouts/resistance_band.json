@@ -1,0 +1,19 @@
+{
+  "name": "Resistance Band",
+  "imageSrc": "/assets/workouts/ResistanceBand.webp",
+  "values": {
+    "4": { "backhand": 10, "serve": 3 },
+    "5": { "backhand": 10, "serve": 6 },
+    "6": { "backhand": 10, "serve": 11 },
+    "7": { "backhand": 10, "serve": 15 },
+    "8": { "backhand": 11, "serve": 18 },
+    "9": { "backhand": 12, "serve": 20 },
+    "10": { "backhand": 13, "serve": 22 },
+    "11": { "backhand": 14, "serve": 24 },
+    "12": { "backhand": 15, "serve": 26 },
+    "13": { "backhand": 15, "serve": 28 },
+    "14": { "backhand": 16, "serve": 30 },
+    "15": { "backhand": 17, "serve": 32 }
+  },
+  "rarity": "EPIC"
+}

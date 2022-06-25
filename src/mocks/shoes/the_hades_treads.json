@@ -1,0 +1,19 @@
+{
+  "name": "The Hades Treads",
+  "imageSrc": "/assets/shoes/TheHadesTreads.webp",
+  "values": {
+    "4": { "agility": 15 },
+    "5": { "agility": 20 },
+    "6": { "agility": 24 },
+    "7": { "agility": 29 },
+    "8": { "agility": 32 },
+    "9": { "agility": 36 },
+    "10": { "agility": 40 },
+    "11": { "agility": 44 },
+    "12": { "agility": 47 },
+    "13": { "agility": 51 },
+    "14": { "agility": 51 },
+    "15": { "agility": 58 }
+  },
+  "rarity": "EPIC"
+}

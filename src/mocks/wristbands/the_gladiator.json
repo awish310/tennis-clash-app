@@ -1,0 +1,19 @@
+{
+  "name": "The Gladiator",
+  "imageSrc": "/assets/wristbands/TheGladiator.webp",
+  "values": {
+    "4": { "volley": 14 },
+    "5": { "volley": 18 },
+    "6": { "volley": 23 },
+    "7": { "volley": 27 },
+    "8": { "volley": 30 },
+    "9": { "volley": 33 },
+    "10": { "volley": 36 },
+    "11": { "volley": 39 },
+    "12": { "volley": 43 },
+    "13": { "volley": 46 },
+    "14": { "volley": 49 },
+    "15": { "volley": 52 }
+  },
+  "rarity": "EPIC"
+}

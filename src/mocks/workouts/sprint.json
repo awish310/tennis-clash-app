@@ -1,0 +1,15 @@
+{
+  "name": "Sprint",
+  "imageSrc": "/assets/workouts/Sprint.webp",
+  "values": {
+    "4": { "serve": 14 },
+    "5": { "serve": 19 },
+    "6": { "serve": 23 },
+    "7": { "serve": 28 },
+    "8": { "serve": 31 },
+    "9": { "serve": 34 },
+    "10": { "serve": 36 },
+    "11": { "serve": 40 }
+  },
+  "rarity": "EPIC"
+}

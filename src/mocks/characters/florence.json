@@ -1,0 +1,94 @@
+{
+  "name": "Florence",
+  "imageSrc": "/assets/characters/Florence.webp",
+  "values": {
+    "1": {
+      "agility": 5,
+      "stamina": 7,
+      "serve": 1,
+      "volley": 2,
+      "forehand": 3,
+      "backhand": 3
+    },
+    "2": {
+      "agility": 7,
+      "stamina": 8,
+      "serve": 2,
+      "volley": 2,
+      "forehand": 4,
+      "backhand": 4
+    },
+    "3": {
+      "agility": 9,
+      "stamina": 9,
+      "serve": 2,
+      "volley": 3,
+      "forehand": 5,
+      "backhand": 5
+    },
+    "4": {
+      "agility": 11,
+      "stamina": 10,
+      "serve": 3,
+      "volley": 4,
+      "forehand": 6,
+      "backhand": 5
+    },
+    "5": {
+      "agility": 12,
+      "stamina": 11,
+      "serve": 3,
+      "volley": 4,
+      "forehand": 7,
+      "backhand": 6
+    },
+    "6": {
+      "agility": 14,
+      "stamina": 13,
+      "serve": 4,
+      "volley": 5,
+      "forehand": 7,
+      "backhand": 7
+    },
+    "7": {
+      "agility": 16,
+      "stamina": 14,
+      "serve": 4,
+      "volley": 5,
+      "forehand": 8,
+      "backhand": 8
+    },
+    "8": {
+      "agility": 18,
+      "stamina": 15,
+      "serve": 5,
+      "volley": 6,
+      "forehand": 9,
+      "backhand": 9
+    },
+    "9": {
+      "agility": 20,
+      "stamina": 16,
+      "serve": 5,
+      "volley": 7,
+      "forehand": 10,
+      "backhand": 10
+    },
+    "10": {
+      "agility": 21,
+      "stamina": 17,
+      "serve": 6,
+      "volley": 7,
+      "forehand": 11,
+      "backhand": 10
+    },
+    "11": {
+      "agility": 23,
+      "stamina": 19,
+      "serve": 7,
+      "volley": 8,
+      "forehand": 12,
+      "backhand": 11
+    }
+  }
+}

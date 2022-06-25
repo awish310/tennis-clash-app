@@ -1,0 +1,55 @@
+{
+  "name": "The Hammer",
+  "imageSrc": "/assets/rackets/TheHammer.webp",
+  "values": {
+    "4": {
+      "backhand": 7,
+      "forehand": 14
+    },
+    "5": {
+      "backhand": 8,
+      "forehand": 18
+    },
+    "6": {
+      "backhand": 8,
+      "forehand": 22
+    },
+    "7": {
+      "backhand": 8,
+      "forehand": 27
+    },
+    "8": {
+      "backhand": 8,
+      "forehand": 30
+    },
+    "9": {
+      "backhand": 9,
+      "forehand": 32
+    },
+    "10": {
+      "backhand": 10,
+      "forehand": 35
+    },
+    "11": {
+      "backhand": 10,
+      "forehand": 38
+    },
+    "12": {
+      "backhand": 11,
+      "forehand": 41
+    },
+    "13": {
+      "backhand": 12,
+      "forehand": 44
+    },
+    "14": {
+      "backhand": 12,
+      "forehand": 47
+    },
+    "15": {
+      "backhand": 13,
+      "forehand": 50
+    }
+  },
+  "rarity": "EPIC"
+}

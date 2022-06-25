@@ -1,0 +1,15 @@
+{
+  "name": "The Tomahawk",
+  "imageSrc": "/assets/wristbands/TheTomahawk.webp",
+  "values": {
+    "4": { "volley": 13 },
+    "5": { "volley": 17 },
+    "6": { "volley": 21 },
+    "7": { "volley": 26 },
+    "8": { "volley": 29 },
+    "9": { "volley": 32 },
+    "10": { "volley": 34 },
+    "11": { "volley": 38 }
+  },
+  "rarity": "EPIC"
+}

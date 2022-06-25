@@ -1,0 +1,20 @@
+{
+  "name": "The Shield",
+  "imageSrc": "/assets/wristbands/TheShield.webp",
+  "values": {
+    "3": { "serve": 5, "volley": 3 },
+    "4": { "serve": 5, "volley": 6 },
+    "5": { "serve": 6, "volley": 10 },
+    "6": { "serve": 6, "volley": 14 },
+    "7": { "serve": 6, "volley": 19 },
+    "8": { "serve": 6, "volley": 21 },
+    "9": { "serve": 7, "volley": 24 },
+    "10": { "serve": 7, "volley": 26 },
+    "11": { "serve": 8, "volley": 28 },
+    "12": { "serve": 8, "volley": 31 },
+    "13": { "serve": 9, "volley": 33 },
+    "14": { "serve": 9, "volley": 36 },
+    "15": { "serve": 10, "volley": 38 }
+  },
+  "rarity": "RARE"
+}

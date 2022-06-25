@@ -1,0 +1,59 @@
+{
+  "name": "The Samurai",
+  "imageSrc": "/assets/rackets/TheSamurai.webp",
+  "values": {
+    "3": {
+      "agility": 3,
+      "forehand": 6
+    },
+    "4": {
+      "agility": 3,
+      "forehand": 9
+    },
+    "5": {
+      "agility": 3,
+      "forehand": 14
+    },
+    "6": {
+      "agility": 3,
+      "forehand": 18
+    },
+    "7": {
+      "agility": 3,
+      "forehand": 23
+    },
+    "8": {
+      "agility": 4,
+      "forehand": 25
+    },
+    "9": {
+      "agility": 4,
+      "forehand": 28
+    },
+    "10": {
+      "agility": 4,
+      "forehand": 31
+    },
+    "11": {
+      "agility": 5,
+      "forehand": 33
+    },
+    "12": {
+      "agility": 5,
+      "forehand": 36
+    },
+    "13": {
+      "agility": 5,
+      "forehand": 38
+    },
+    "14": {
+      "agility": 6,
+      "forehand": 41
+    },
+    "15": {
+      "agility": 6,
+      "forehand": 43
+    }
+  },
+  "rarity": "RARE"
+}

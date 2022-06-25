@@ -1,0 +1,15 @@
+{
+  "name": "Macrobiotic",
+  "imageSrc": "/assets/nutritions/Macrobiotic.webp",
+  "values": {
+    "4": { "volley": 11, "stamina": 1 },
+    "5": { "volley": 11, "stamina": 4 },
+    "6": { "volley": 12, "stamina": 7 },
+    "7": { "volley": 12, "stamina": 11 },
+    "8": { "volley": 13, "stamina": 13 },
+    "9": { "volley": 14, "stamina": 15 },
+    "10": { "volley": 15, "stamina": 17 },
+    "11": { "volley": 16, "stamina": 18 }
+  },
+  "rarity": "EPIC"
+}

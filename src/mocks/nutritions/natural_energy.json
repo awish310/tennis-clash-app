@@ -1,0 +1,20 @@
+{
+  "name": "Natural Energy",
+  "imageSrc": "/assets/nutritions/NaturalEnergy.webp",
+  "values": {
+    "3": { "stamina": 3, "volley": 5 },
+    "4": { "stamina": 6, "volley": 5 },
+    "5": { "stamina": 9, "volley": 5 },
+    "6": { "stamina": 13, "volley": 6 },
+    "7": { "stamina": 17, "volley": 6 },
+    "8": { "stamina": 19, "volley": 6 },
+    "9": { "stamina": 21, "volley": 7 },
+    "10": { "stamina": 23, "volley": 7 },
+    "11": { "stamina": 26, "volley": 8 },
+    "12": { "stamina": 28, "volley": 8 },
+    "13": { "stamina": 30, "volley": 9 },
+    "14": { "stamina": 32, "volley": 9 },
+    "15": { "stamina": 34, "volley": 9 }
+  },
+  "rarity": "RARE"
+}

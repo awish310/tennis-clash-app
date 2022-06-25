@@ -1,0 +1,67 @@
+{
+  "name": "Tactical Grip",
+  "imageSrc": "/assets/grips/TacticalGrip.webp",
+  "values": {
+    "1": {
+      "volley": 8,
+      "backhand": 0
+    },
+    "2": {
+      "volley": 9,
+      "backhand": 1
+    },
+    "3": {
+      "volley": 10,
+      "backhand": 2
+    },
+    "4": {
+      "volley": 11,
+      "backhand": 6
+    },
+    "5": {
+      "volley": 11,
+      "backhand": 10
+    },
+    "6": {
+      "volley": 12,
+      "backhand": 14
+    },
+    "7": {
+      "volley": 12,
+      "backhand": 18
+    },
+    "8": {
+      "volley": 13,
+      "backhand": 21
+    },
+    "9": {
+      "volley": 14,
+      "backhand": 23
+    },
+    "10": {
+      "volley": 15,
+      "backhand": 25
+    },
+    "11": {
+      "volley": 16,
+      "backhand": 27
+    },
+    "12": {
+      "volley": 17,
+      "backhand": 29
+    },
+    "13": {
+      "volley": 18,
+      "backhand": 32
+    },
+    "14": {
+      "volley": 19,
+      "backhand": 34
+    },
+    "15": {
+      "volley": 19,
+      "backhand": 36
+    }
+  },
+  "rarity": "EPIC"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "The Panther",
+  "imageSrc": "/assets/rackets/ThePanther.webp",
+  "values": {
+    "3": {
+      "forehand": 12
+    },
+    "4": {
+      "forehand": 16
+    },
+    "5": {
+      "forehand": 20
+    },
+    "6": {
+      "forehand": 25
+    },
+    "7": {
+      "forehand": 29
+    },
+    "8": {
+      "forehand": 32
+    },
+    "9": {
+      "forehand": 35
+    },
+    "10": {
+      "forehand": 38
+    },
+    "11": {
+      "forehand": 42
+    }
+  },
+  "rarity": "RARE"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Keto Sourcing",
+  "imageSrc": "/assets/nutritions/KetoSourcing.webp",
+  "values": {
+    "4": { "stamina": 14 },
+    "5": { "stamina": 18 },
+    "6": { "stamina": 22 },
+    "7": { "stamina": 26 },
+    "8": { "stamina": 29 },
+    "9": { "stamina": 32 },
+    "10": { "stamina": 35 },
+    "11": { "stamina": 38 },
+    "12": { "stamina": 41 },
+    "13": { "stamina": 44 },
+    "14": { "stamina": 44 },
+    "15": { "stamina": 49 }
+  },
+  "rarity": "EPIC"
+}

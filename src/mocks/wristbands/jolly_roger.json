@@ -1,0 +1,15 @@
+{
+  "name": "Jolly Roger",
+  "imageSrc": "/assets/wristbands/JollyRoger.webp",
+  "values": {
+    "4": { "serve": 11, "volley": 2 },
+    "5": { "serve": 12, "volley": 5 },
+    "6": { "serve": 12, "volley": 9 },
+    "7": { "serve": 12, "volley": 14 },
+    "8": { "serve": 13, "volley": 16 },
+    "9": { "serve": 14, "volley": 18 },
+    "10": { "serve": 15, "volley": 19 },
+    "11": { "serve": 16, "volley": 22 }
+  },
+  "rarity": "EPIC"
+}

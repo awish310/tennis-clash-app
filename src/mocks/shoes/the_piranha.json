@@ -1,0 +1,15 @@
+{
+  "name": "The Piranha",
+  "imageSrc": "/assets/shoes/ThePiranha.webp",
+  "values": {
+    "4": { "stamina": 12, "agility": 8 },
+    "5": { "stamina": 12, "agility": 12 },
+    "6": { "stamina": 13, "agility": 16 },
+    "7": { "stamina": 13, "agility": 20 },
+    "8": { "stamina": 14, "agility": 23 },
+    "9": { "stamina": 15, "agility": 26 },
+    "10": { "stamina": 16, "agility": 29 },
+    "11": { "stamina": 17, "agility": 32 }
+  },
+  "rarity": "EPIC"
+}

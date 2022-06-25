@@ -1,0 +1,59 @@
+{
+  "name": "The Ballistic",
+  "imageSrc": "/assets/shoes/TheBallistic.webp",
+  "values": {
+    "3": {
+      "serve": 5,
+      "agility": 7
+    },
+    "4": {
+      "serve": 5,
+      "agility": 11
+    },
+    "5": {
+      "serve": 6,
+      "agility": 15
+    },
+    "6": {
+      "serve": 6,
+      "agility": 19
+    },
+    "7": {
+      "serve": 6,
+      "agility": 23
+    },
+    "8": {
+      "serve": 6,
+      "agility": 27
+    },
+    "9": {
+      "serve": 7,
+      "agility": 30
+    },
+    "10": {
+      "serve": 7,
+      "agility": 33
+    },
+    "11": {
+      "serve": 8,
+      "agility": 36
+    },
+    "12": {
+      "serve": 8,
+      "agility": 40
+    },
+    "13": {
+      "serve": 9,
+      "agility": 43
+    },
+    "14": {
+      "serve": 9,
+      "agility": 46
+    },
+    "15": {
+      "serve": 10,
+      "agility": 50
+    }
+  },
+  "rarity": "EPIC"
+}

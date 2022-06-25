@@ -1,0 +1,19 @@
+{
+  "name": "The Koi",
+  "imageSrc": "/assets/wristbands/TheKoi.webp",
+  "values": {
+    "4": { "agility": 7, "volley": 2 },
+    "5": { "agility": 7, "volley": 5 },
+    "6": { "agility": 7, "volley": 9 },
+    "7": { "agility": 7, "volley": 14 },
+    "8": { "agility": 8, "volley": 16 },
+    "9": { "agility": 9, "volley": 18 },
+    "10": { "agility": 9, "volley": 20 },
+    "11": { "agility": 10, "volley": 22 },
+    "12": { "agility": 10, "volley": 24 },
+    "13": { "agility": 11, "volley": 26 },
+    "14": { "agility": 12, "volley": 28 },
+    "15": { "agility": 12, "volley": 30 }
+  },
+  "rarity": "EPIC"
+}
