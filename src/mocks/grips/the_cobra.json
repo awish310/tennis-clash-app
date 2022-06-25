@@ -1,0 +1,39 @@
+{
+  "name": "The Cobra",
+  "imageSrc": "/assets/grips/TheCobra.webp",
+  "values": {
+    "4": {
+      "forehand": 10,
+      "backhand": 6
+    },
+    "5": {
+      "forehand": 10,
+      "backhand": 10
+    },
+    "6": {
+      "forehand": 10,
+      "backhand": 14
+    },
+    "7": {
+      "forehand": 10,
+      "backhand": 18
+    },
+    "8": {
+      "forehand": 11,
+      "backhand": 21
+    },
+    "9": {
+      "forehand": 12,
+      "backhand": 23
+    },
+    "10": {
+      "forehand": 13,
+      "backhand": 25
+    },
+    "11": {
+      "forehand": 14,
+      "backhand": 27
+    }
+  },
+  "rarity": "EPIC"
+}

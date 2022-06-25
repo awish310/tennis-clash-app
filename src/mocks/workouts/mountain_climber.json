@@ -1,0 +1,20 @@
+{
+  "name": "Mountain Climber",
+  "imageSrc": "/assets/workouts/MountainClimber.webp",
+  "values": {
+    "3": { "backhand": 4, "serve": 4 },
+    "4": { "backhand": 5, "serve": 7 },
+    "5": { "backhand": 5, "serve": 11 },
+    "6": { "backhand": 5, "serve": 16 },
+    "7": { "backhand": 5, "serve": 21 },
+    "8": { "backhand": 5, "serve": 23 },
+    "9": { "backhand": 6, "serve": 25 },
+    "10": { "backhand": 6, "serve": 28 },
+    "11": { "backhand": 7, "serve": 30 },
+    "12": { "backhand": 7, "serve": 33 },
+    "13": { "backhand": 7, "serve": 35 },
+    "14": { "backhand": 7, "serve": 35 },
+    "15": { "backhand": 8, "serve": 40 }
+  },
+  "rarity": "RARE"
+}

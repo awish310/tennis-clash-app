@@ -1,0 +1,18 @@
+{
+  "name": "Plyometrics",
+  "imageSrc": "/assets/workouts/Plyometrics.webp",
+  "values": {
+    "1": { "backhand": 3, "serve": 1 },
+    "2": { "backhand": 3, "serve": 3 },
+    "3": { "backhand": 4, "serve": 4 },
+    "4": { "backhand": 4, "serve": 8 },
+    "5": { "backhand": 4, "serve": 12 },
+    "6": { "backhand": 4, "serve": 16 },
+    "7": { "backhand": 4, "serve": 21 },
+    "8": { "backhand": 5, "serve": 24 },
+    "9": { "backhand": 5, "serve": 26 },
+    "10": { "backhand": 6, "serve": 29 },
+    "11": { "backhand": 6, "serve": 31 }
+  },
+  "rarity": "COMMON"
+}

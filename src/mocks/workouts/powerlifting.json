@@ -1,0 +1,15 @@
+{
+  "name": "Powerlifting",
+  "imageSrc": "/assets/workouts/Powerlifting.webp",
+  "values": {
+    "4": { "stamina": 12, "serve": 3 },
+    "5": { "stamina": 12, "serve": 6 },
+    "6": { "stamina": 13, "serve": 11 },
+    "7": { "stamina": 13, "serve": 15 },
+    "8": { "stamina": 14, "serve": 18 },
+    "9": { "stamina": 15, "serve": 20 },
+    "10": { "stamina": 16, "serve": 22 },
+    "11": { "stamina": 17, "serve": 24 }
+  },
+  "rarity": "EPIC"
+}

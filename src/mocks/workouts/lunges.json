@@ -1,0 +1,19 @@
+{
+  "name": "Lunges",
+  "imageSrc": "/assets/workouts/Lunges.webp",
+  "values": {
+    "4": { "serve": 15 },
+    "5": { "serve": 20 },
+    "6": { "serve": 24 },
+    "7": { "serve": 29 },
+    "8": { "serve": 32 },
+    "9": { "serve": 35 },
+    "10": { "serve": 39 },
+    "11": { "serve": 42 },
+    "12": { "serve": 45 },
+    "13": { "serve": 48 },
+    "14": { "serve": 51 },
+    "15": { "serve": 54 }
+  },
+  "rarity": "EPIC"
+}

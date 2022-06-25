@@ -1,0 +1,51 @@
+{
+  "name": "The Hunter",
+  "imageSrc": "/assets/shoes/TheHunter.webp",
+  "values": {
+    "1": {
+      "serve": 3,
+      "agility": 5
+    },
+    "2": {
+      "serve": 4,
+      "agility": 6
+    },
+    "3": {
+      "serve": 5,
+      "agility": 7
+    },
+    "4": {
+      "serve": 5,
+      "agility": 11
+    },
+    "5": {
+      "serve": 5,
+      "agility": 15
+    },
+    "6": {
+      "serve": 5,
+      "agility": 19
+    },
+    "7": {
+      "serve": 5,
+      "agility": 24
+    },
+    "8": {
+      "serve": 6,
+      "agility": 27
+    },
+    "9": {
+      "serve": 6,
+      "agility": 30
+    },
+    "10": {
+      "serve": 7,
+      "agility": 34
+    },
+    "11": {
+      "serve": 7,
+      "agility": 37
+    }
+  },
+  "rarity": "COMMON"
+}

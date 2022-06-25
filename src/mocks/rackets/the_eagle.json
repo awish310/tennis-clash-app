@@ -1,0 +1,51 @@
+{
+  "name": "The Eagle",
+  "imageSrc": "/assets/rackets/TheEagle.webp",
+  "values": {
+    "1": {
+      "agility": 2,
+      "forehand": 3
+    },
+    "2": {
+      "agility": 3,
+      "forehand": 4
+    },
+    "3": {
+      "agility": 3,
+      "forehand": 7
+    },
+    "4": {
+      "agility": 3,
+      "forehand": 10
+    },
+    "5": {
+      "agility": 3,
+      "forehand": 14
+    },
+    "6": {
+      "agility": 3,
+      "forehand": 19
+    },
+    "7": {
+      "agility": 3,
+      "forehand": 23
+    },
+    "8": {
+      "agility": 3,
+      "forehand": 26
+    },
+    "9": {
+      "agility": 4,
+      "forehand": 29
+    },
+    "10": {
+      "agility": 4,
+      "forehand": 31
+    },
+    "11": {
+      "agility": 4,
+      "forehand": 34
+    }
+  },
+  "rarity": "COMMON"
+}

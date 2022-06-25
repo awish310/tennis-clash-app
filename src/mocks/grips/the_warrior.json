@@ -1,0 +1,51 @@
+{
+  "name": "The Warrior",
+  "imageSrc": "/assets/grips/TheWarrior.webp",
+  "values": {
+    "1": {
+      "volley": 3,
+      "backhand": 3
+    },
+    "2": {
+      "volley": 4,
+      "backhand": 5
+    },
+    "3": {
+      "volley": 4,
+      "backhand": 7
+    },
+    "4": {
+      "volley": 5,
+      "backhand": 10
+    },
+    "5": {
+      "volley": 5,
+      "backhand": 14
+    },
+    "6": {
+      "volley": 5,
+      "backhand": 19
+    },
+    "7": {
+      "volley": 5,
+      "backhand": 23
+    },
+    "8": {
+      "volley": 6,
+      "backhand": 26
+    },
+    "9": {
+      "volley": 6,
+      "backhand": 29
+    },
+    "10": {
+      "volley": 6,
+      "backhand": 31
+    },
+    "11": {
+      "volley": 7,
+      "backhand": 34
+    }
+  },
+  "rarity": "COMMON"
+}

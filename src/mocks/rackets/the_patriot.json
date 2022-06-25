@@ -1,0 +1,39 @@
+{
+  "name": "The Patriot",
+  "imageSrc": "/assets/rackets/ThePatriot.webp",
+  "values": {
+    "4": {
+      "backhand": 7,
+      "forehand": 13
+    },
+    "5": {
+      "backhand": 7,
+      "forehand": 17
+    },
+    "6": {
+      "backhand": 7,
+      "forehand": 21
+    },
+    "7": {
+      "backhand": 7,
+      "forehand": 26
+    },
+    "8": {
+      "backhand": 8,
+      "forehand": 29
+    },
+    "9": {
+      "backhand": 8,
+      "forehand": 32
+    },
+    "10": {
+      "backhand": 9,
+      "forehand": 34
+    },
+    "11": {
+      "backhand": 9,
+      "forehand": 37
+    }
+  },
+  "rarity": "EPIC"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "The Katana",
+  "imageSrc": "/assets/grips/TheKatana.webp",
+  "values": {
+    "3": {
+      "volley": 5,
+      "backhand": 6
+    },
+    "4": {
+      "volley": 5,
+      "backhand": 10
+    },
+    "5": {
+      "volley": 5,
+      "backhand": 14
+    },
+    "6": {
+      "volley": 6,
+      "backhand": 18
+    },
+    "7": {
+      "volley": 6,
+      "backhand": 23
+    },
+    "8": {
+      "volley": 6,
+      "backhand": 25
+    },
+    "9": {
+      "volley": 7,
+      "backhand": 28
+    },
+    "10": {
+      "volley": 7,
+      "backhand": 31
+    },
+    "11": {
+      "volley": 8,
+      "backhand": 33
+    },
+    "12": {
+      "volley": 8,
+      "backhand": 36
+    },
+    "13": {
+      "volley": 9,
+      "backhand": 38
+    },
+    "14": {
+      "volley": 9,
+      "backhand": 38
+    },
+    "15": {
+      "volley": 9,
+      "backhand": 43
+    }
+  },
+  "rarity": "RARE"
+}

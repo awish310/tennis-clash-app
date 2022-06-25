@@ -1,0 +1,55 @@
+{
+  "name": "The Shuriken",
+  "imageSrc": "/assets/shoes/TheShuriken.webp",
+  "values": {
+    "4": {
+      "serve": 11,
+      "agility": 8
+    },
+    "5": {
+      "serve": 12,
+      "agility": 12
+    },
+    "6": {
+      "serve": 12,
+      "agility": 16
+    },
+    "7": {
+      "serve": 12,
+      "agility": 20
+    },
+    "8": {
+      "serve": 13,
+      "agility": 23
+    },
+    "9": {
+      "serve": 14,
+      "agility": 26
+    },
+    "10": {
+      "serve": 15,
+      "agility": 29
+    },
+    "11": {
+      "serve": 16,
+      "agility": 32
+    },
+    "12": {
+      "serve": 17,
+      "agility": 35
+    },
+    "13": {
+      "serve": 18,
+      "agility": 38
+    },
+    "14": {
+      "serve": 19,
+      "agility": 41
+    },
+    "15": {
+      "serve": 20,
+      "agility": 44
+    }
+  },
+  "rarity": "EPIC"
+}

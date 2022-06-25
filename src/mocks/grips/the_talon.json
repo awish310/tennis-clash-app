@@ -1,0 +1,39 @@
+{
+  "name": "The Talon",
+  "imageSrc": "/assets/grips/TheTalon.webp",
+  "values": {
+    "4": {
+      "forehand": 7,
+      "backhand": 13
+    },
+    "5": {
+      "forehand": 7,
+      "backhand": 17
+    },
+    "6": {
+      "forehand": 7,
+      "backhand": 21
+    },
+    "7": {
+      "forehand": 7,
+      "backhand": 26
+    },
+    "8": {
+      "forehand": 8,
+      "backhand": 29
+    },
+    "9": {
+      "forehand": 8,
+      "backhand": 32
+    },
+    "10": {
+      "forehand": 9,
+      "backhand": 34
+    },
+    "11": {
+      "forehand": 9,
+      "backhand": 37
+    }
+  },
+  "rarity": "EPIC"
+}

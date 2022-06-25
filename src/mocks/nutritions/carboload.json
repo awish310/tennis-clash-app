@@ -1,0 +1,19 @@
+{
+  "name": "Carboload",
+  "imageSrc": "/assets/nutritions/Carboload.webp",
+  "values": {
+    "4": { "forehand": 10, "stamina": 1 },
+    "5": { "forehand": 10, "stamina": 4 },
+    "6": { "forehand": 10, "stamina": 7 },
+    "7": { "forehand": 10, "stamina": 11 },
+    "8": { "forehand": 11, "stamina": 13 },
+    "9": { "forehand": 12, "stamina": 15 },
+    "10": { "forehand": 13, "stamina": 17 },
+    "11": { "forehand": 14, "stamina": 18 },
+    "12": { "forehand": 15, "stamina": 20 },
+    "13": { "forehand": 15, "stamina": 22 },
+    "14": { "forehand": 16, "stamina": 24 },
+    "15": { "forehand": 17, "stamina": 25 }
+  },
+  "rarity": "EPIC"
+}

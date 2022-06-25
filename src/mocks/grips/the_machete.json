@@ -1,0 +1,34 @@
+{
+  "name": "The Machete",
+  "imageSrc": "/assets/grips/TheMachete.webp",
+  "values": {
+    "3": {
+      "backhand": 12
+    },
+    "4": {
+      "backhand": 16
+    },
+    "5": {
+      "backhand": 20
+    },
+    "6": {
+      "backhand": 25
+    },
+    "7": {
+      "backhand": 29
+    },
+    "8": {
+      "backhand": 32
+    },
+    "9": {
+      "backhand": 35
+    },
+    "10": {
+      "backhand": 38
+    },
+    "11": {
+      "backhand": 42
+    }
+  },
+  "rarity": "RARE"
+}

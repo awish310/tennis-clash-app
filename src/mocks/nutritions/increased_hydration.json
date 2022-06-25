@@ -1,0 +1,16 @@
+{
+  "name": "Increased Hydration",
+  "imageSrc": "/assets/nutritions/IncreasedHydration.webp",
+  "values": {
+    "3": { "forehand": 4, "stamina": 3 },
+    "4": { "forehand": 4, "stamina": 6 },
+    "5": { "forehand": 4, "stamina": 10 },
+    "6": { "forehand": 4, "stamina": 13 },
+    "7": { "forehand": 4, "stamina": 18 },
+    "8": { "forehand": 5, "stamina": 20 },
+    "9": { "forehand": 5, "stamina": 22 },
+    "10": { "forehand": 6, "stamina": 24 },
+    "11": { "forehand": 6, "stamina": 26 }
+  },
+  "rarity": "RARE"
+}

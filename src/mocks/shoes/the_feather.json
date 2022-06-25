@@ -1,0 +1,15 @@
+{
+  "name": "The Feather",
+  "imageSrc": "/assets/shoes/TheFeather.webp",
+  "values": {
+    "4": { "agility": 15 },
+    "5": { "agility": 19 },
+    "6": { "agility": 23 },
+    "7": { "agility": 28 },
+    "8": { "agility": 32 },
+    "9": { "agility": 35 },
+    "10": { "agility": 40 },
+    "11": { "agility": 43 }
+  },
+  "rarity": "EPIC"
+}

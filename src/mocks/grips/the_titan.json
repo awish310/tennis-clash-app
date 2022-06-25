@@ -1,0 +1,43 @@
+{
+  "name": "The Titan",
+  "imageSrc": "/assets/grips/TheTitan.webp",
+  "values": {
+    "4": {
+      "backhand": 17
+    },
+    "5": {
+      "backhand": 21
+    },
+    "6": {
+      "backhand": 26
+    },
+    "7": {
+      "backhand": 30
+    },
+    "8": {
+      "backhand": 33
+    },
+    "9": {
+      "backhand": 37
+    },
+    "10": {
+      "backhand": 40
+    },
+    "11": {
+      "backhand": 43
+    },
+    "12": {
+      "backhand": 46
+    },
+    "13": {
+      "backhand": 49
+    },
+    "14": {
+      "backhand": 52
+    },
+    "15": {
+      "backhand": 55
+    }
+  },
+  "rarity": "EPIC"
+}

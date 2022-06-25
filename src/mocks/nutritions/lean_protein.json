@@ -1,0 +1,15 @@
+{
+  "name": "Lean Protein",
+  "imageSrc": "/assets/nutritions/LeanProtein.webp",
+  "values": {
+    "4": { "stamina": 13 },
+    "5": { "stamina": 17 },
+    "6": { "stamina": 21 },
+    "7": { "stamina": 25 },
+    "8": { "stamina": 28 },
+    "9": { "stamina": 31 },
+    "10": { "stamina": 34 },
+    "11": { "stamina": 36 }
+  },
+  "rarity": "EPIC"
+}

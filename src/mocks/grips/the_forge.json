@@ -1,0 +1,55 @@
+{
+  "name": "The Forge",
+  "imageSrc": "/assets/grips/TheForge.webp",
+  "values": {
+    "4": {
+      "forehand": 7,
+      "backhand": 14
+    },
+    "5": {
+      "forehand": 8,
+      "backhand": 18
+    },
+    "6": {
+      "forehand": 8,
+      "backhand": 22
+    },
+    "7": {
+      "forehand": 8,
+      "backhand": 27
+    },
+    "8": {
+      "forehand": 8,
+      "backhand": 30
+    },
+    "9": {
+      "forehand": 9,
+      "backhand": 32
+    },
+    "10": {
+      "forehand": 10,
+      "backhand": 35
+    },
+    "11": {
+      "forehand": 10,
+      "backhand": 38
+    },
+    "12": {
+      "forehand": 11,
+      "backhand": 41
+    },
+    "13": {
+      "forehand": 12,
+      "backhand": 44
+    },
+    "14": {
+      "forehand": 12,
+      "backhand": 47
+    },
+    "15": {
+      "forehand": 13,
+      "backhand": 50
+    }
+  },
+  "rarity": "EPIC"
+}

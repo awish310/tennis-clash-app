@@ -1,0 +1,22 @@
+{
+  "name": "Weight Lifting",
+  "imageSrc": "/assets/workouts/WeightLifting.webp",
+  "values": {
+    "1": { "stamina": 4, "serve": 1 },
+    "2": { "stamina": 5, "serve": 2 },
+    "3": { "stamina": 5, "serve": 4 },
+    "4": { "stamina": 6, "serve": 7 },
+    "5": { "stamina": 6, "serve": 11 },
+    "6": { "stamina": 6, "serve": 16 },
+    "7": { "stamina": 6, "serve": 21 },
+    "8": { "stamina": 7, "serve": 23 },
+    "9": { "stamina": 7, "serve": 25 },
+    "10": { "stamina": 8, "serve": 28 },
+    "11": { "stamina": 8, "serve": 30 },
+    "12": { "stamina": 9, "serve": 33 },
+    "13": { "stamina": 10, "serve": 35 },
+    "14": { "stamina": 10, "serve": 38 },
+    "15": { "stamina": 11, "serve": 40 }
+  },
+  "rarity": "COMMON"
+}

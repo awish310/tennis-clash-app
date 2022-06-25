@@ -1,0 +1,126 @@
+{
+  "name": "Viktoria",
+  "imageSrc": "/assets/characters/Viktoria.webp",
+  "values": {
+    "1": {
+      "agility": 3,
+      "stamina": 2,
+      "serve": 5,
+      "volley": 6,
+      "forehand": 3,
+      "backhand": 3
+    },
+    "2": {
+      "agility": 5,
+      "stamina": 2,
+      "serve": 7,
+      "volley": 7,
+      "forehand": 4,
+      "backhand": 4
+    },
+    "3": {
+      "agility": 4,
+      "stamina": 4,
+      "serve": 5,
+      "volley": 4,
+      "forehand": 9,
+      "backhand": 6
+    },
+    "4": {
+      "agility": 6,
+      "stamina": 5,
+      "serve": 6,
+      "volley": 4,
+      "forehand": 10,
+      "backhand": 7
+    },
+    "5": {
+      "agility": 7,
+      "stamina": 6,
+      "serve": 7,
+      "volley": 5,
+      "forehand": 11,
+      "backhand": 8
+    },
+    "6": {
+      "agility": 8,
+      "stamina": 6,
+      "serve": 8,
+      "volley": 6,
+      "forehand": 13,
+      "backhand": 9
+    },
+    "7": {
+      "agility": 9,
+      "stamina": 7,
+      "serve": 9,
+      "volley": 6,
+      "forehand": 14,
+      "backhand": 10
+    },
+    "8": {
+      "agility": 10,
+      "stamina": 8,
+      "serve": 10,
+      "volley": 7,
+      "forehand": 15,
+      "backhand": 11
+    },
+    "9": {
+      "agility": 12,
+      "stamina": 8,
+      "serve": 11,
+      "volley": 8,
+      "forehand": 16,
+      "backhand": 12
+    },
+    "10": {
+      "agility": 13,
+      "stamina": 9,
+      "serve": 12,
+      "volley": 8,
+      "forehand": 18,
+      "backhand": 13
+    },
+    "11": {
+      "agility": 14,
+      "stamina": 10,
+      "serve": 13,
+      "volley": 9,
+      "forehand": 19,
+      "backhand": 14
+    },
+    "12": {
+      "agility": 16,
+      "stamina": 10,
+      "serve": 14,
+      "volley": 10,
+      "forehand": 20,
+      "backhand": 15
+    },
+    "13": {
+      "agility": 17,
+      "stamina": 11,
+      "serve": 15,
+      "volley": 10,
+      "forehand": 22,
+      "backhand": 16
+    },
+    "14": {
+      "agility": 18,
+      "stamina": 12,
+      "serve": 16,
+      "volley": 11,
+      "forehand": 23,
+      "backhand": 17
+    },
+    "15": {
+      "agility": 19,
+      "stamina": 12,
+      "serve": 17,
+      "volley": 12,
+      "forehand": 24,
+      "backhand": 18
+    }
+  }
+}

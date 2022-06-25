@@ -1,0 +1,22 @@
+{
+  "name": "Antioxidants",
+  "imageSrc": "/assets/nutritions/Antioxidants.webp",
+  "values": {
+    "1": { "forehand": 3, "stamina": 0 },
+    "2": { "forehand": 3, "stamina": 1 },
+    "3": { "forehand": 4, "stamina": 3 },
+    "4": { "forehand": 5, "stamina": 6 },
+    "5": { "forehand": 5, "stamina": 9 },
+    "6": { "forehand": 5, "stamina": 13 },
+    "7": { "forehand": 5, "stamina": 17 },
+    "8": { "forehand": 5, "stamina": 19 },
+    "9": { "forehand": 6, "stamina": 21 },
+    "10": { "forehand": 6, "stamina": 23 },
+    "11": { "forehand": 7, "stamina": 26 },
+    "12": { "forehand": 7, "stamina": 28 },
+    "13": { "forehand": 7, "stamina": 30 },
+    "14": { "forehand": 8, "stamina": 32 },
+    "15": { "forehand": 8, "stamina": 34 }
+  },
+  "rarity": "COMMON"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "The Bullseye",
+  "imageSrc": "/assets/rackets/TheBullseye.webp",
+  "values": {
+    "4": {
+      "forehand": 17
+    },
+    "5": {
+      "forehand": 21
+    },
+    "6": {
+      "forehand": 26
+    },
+    "7": {
+      "forehand": 30
+    },
+    "8": {
+      "forehand": 33
+    },
+    "9": {
+      "forehand": 37
+    },
+    "10": {
+      "forehand": 40
+    },
+    "11": {
+      "forehand": 43
+    },
+    "12": {
+      "forehand": 46
+    },
+    "13": {
+      "forehand": 49
+    },
+    "14": {
+      "forehand": 52
+    },
+    "15": {
+      "forehand": 55
+    }
+  },
+  "rarity": "EPIC"
+}

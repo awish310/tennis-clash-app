@@ -1,0 +1,59 @@
+{
+  "name": "The Anvil",
+  "imageSrc": "/assets/shoes/TheAnvil.webp",
+  "values": {
+    "3": {
+      "stamina": 5,
+      "agility": 7
+    },
+    "4": {
+      "stamina": 6,
+      "agility": 11
+    },
+    "5": {
+      "stamina": 6,
+      "agility": 15
+    },
+    "6": {
+      "stamina": 6,
+      "agility": 19
+    },
+    "7": {
+      "stamina": 6,
+      "agility": 23
+    },
+    "8": {
+      "stamina": 7,
+      "agility": 27
+    },
+    "9": {
+      "stamina": 7,
+      "agility": 30
+    },
+    "10": {
+      "stamina": 8,
+      "agility": 33
+    },
+    "11": {
+      "stamina": 8,
+      "agility": 36
+    },
+    "12": {
+      "stamina": 9,
+      "agility": 40
+    },
+    "13": {
+      "stamina": 10,
+      "agility": 43
+    },
+    "14": {
+      "stamina": 10,
+      "agility": 46
+    },
+    "15": {
+      "stamina": 11,
+      "agility": 50
+    }
+  },
+  "rarity": "RARE"
+}

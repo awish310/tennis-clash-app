@@ -1,0 +1,20 @@
+{
+  "name": "The Kodiak",
+  "imageSrc": "/assets/wristbands/Thekodiak.webp",
+  "values": {
+    "3": { "agility": 3, "volley": 3 },
+    "4": { "agility": 3, "volley": 6 },
+    "5": { "agility": 3, "volley": 10 },
+    "6": { "agility": 3, "volley": 14 },
+    "7": { "agility": 3, "volley": 19 },
+    "8": { "agility": 4, "volley": 21 },
+    "9": { "agility": 4, "volley": 24 },
+    "10": { "agility": 4, "volley": 26 },
+    "11": { "agility": 5, "volley": 28 },
+    "12": { "agility": 5, "volley": 31 },
+    "13": { "agility": 5, "volley": 33 },
+    "14": { "agility": 6, "volley": 36 },
+    "15": { "agility": 6, "volley": 38 }
+  },
+  "rarity": "RARE"
+}
