@@ -9,4 +9,28 @@ import Omar from './omar.json';
 import MeiLi from './mei-li.json';
 import Luc from './luc.json';
 
-export { Jonah, Hope, Leo, Florence, Viktoria, Kaito, Diana, Omar, MeiLi, Luc };
+const charactersArray = [
+  Jonah,
+  Hope,
+  Leo,
+  Florence,
+  Viktoria,
+  Kaito,
+  Diana,
+  Omar,
+  MeiLi,
+  Luc,
+];
+export {
+  Jonah,
+  Hope,
+  Leo,
+  Florence,
+  Viktoria,
+  Kaito,
+  Diana,
+  Omar,
+  MeiLi,
+  Luc,
+  charactersArray,
+};

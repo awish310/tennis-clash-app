@@ -7,6 +7,16 @@ import TheTalon from './the_talon.json';
 import TheTitan from './the_titan.json';
 import TheWarrior from './the_warrior.json';
 
+const gripsArray = [
+  TacticalGrip,
+  TheCobra,
+  TheForge,
+  TheKatana,
+  TheMachete,
+  TheTalon,
+  TheTitan,
+  TheWarrior,
+];
 export {
   TacticalGrip,
   TheCobra,
@@ -16,4 +26,5 @@ export {
   TheTalon,
   TheTitan,
   TheWarrior,
+  gripsArray,
 };

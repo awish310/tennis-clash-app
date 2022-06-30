@@ -7,6 +7,16 @@ import TheRocket from './the_rocket.json';
 import TheShield from './the_shield.json';
 import TheTomahawk from './the_tomahawk.json';
 
+const wristbandsArray = [
+  JollyRoger,
+  TheGladiator,
+  TheKodiak,
+  TheKoi,
+  TheMacaw,
+  TheRocket,
+  TheShield,
+  TheTomahawk,
+];
 export {
   JollyRoger,
   TheGladiator,
@@ -16,4 +26,5 @@ export {
   TheRocket,
   TheShield,
   TheTomahawk,
+  wristbandsArray,
 };
