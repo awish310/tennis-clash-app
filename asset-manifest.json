@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tennis-clash-app/static/css/main.e296f23f.css",
-    "main.js": "/tennis-clash-app/static/js/main.ec138cb4.js",
+    "main.js": "/tennis-clash-app/static/js/main.8cd312b3.js",
     "static/media/UbuntuCondensed-Regular.ttf": "/tennis-clash-app/static/media/UbuntuCondensed-Regular.e86cedebf88316c748cf.ttf",
     "static/media/tennis_clash_logo.webp": "/tennis-clash-app/static/media/tennis_clash_logo.57ff5c31a41eb0c6f531.webp",
     "index.html": "/tennis-clash-app/index.html",
     "main.e296f23f.css.map": "/tennis-clash-app/static/css/main.e296f23f.css.map",
-    "main.ec138cb4.js.map": "/tennis-clash-app/static/js/main.ec138cb4.js.map"
+    "main.8cd312b3.js.map": "/tennis-clash-app/static/js/main.8cd312b3.js.map"
   },
   "entrypoints": [
     "static/css/main.e296f23f.css",
-    "static/js/main.ec138cb4.js"
+    "static/js/main.8cd312b3.js"
   ]
 }
