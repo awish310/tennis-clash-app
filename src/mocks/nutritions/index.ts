@@ -7,6 +7,16 @@ import Macrobiotic from './macrobiotic.json';
 import NaturalEnergy from './natural_energy.json';
 import VeganDiet from './vegan_diet.json';
 
+const nutritionsArray = [
+  Antioxidants,
+  Carboload,
+  IncreasedHydration,
+  KetoSourcing,
+  LeanProtein,
+  Macrobiotic,
+  NaturalEnergy,
+  VeganDiet,
+];
 export {
   Antioxidants,
   Carboload,
@@ -16,4 +26,5 @@ export {
   Macrobiotic,
   NaturalEnergy,
   VeganDiet,
+  nutritionsArray,
 };

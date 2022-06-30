@@ -7,6 +7,17 @@ import ThePiranha from './the_piranha.json';
 import TheRaptor from './the_raptor.json';
 import TheShuriken from './the_shuriken.json';
 
+const shoesArray = [
+  TheAnvil,
+  TheBallistic,
+  TheFeather,
+  TheHadesTreads,
+  TheHunter,
+  ThePiranha,
+  TheRaptor,
+  TheShuriken,
+];
+
 export {
   TheAnvil,
   TheBallistic,
@@ -16,4 +27,5 @@ export {
   ThePiranha,
   TheRaptor,
   TheShuriken,
+  shoesArray,
 };

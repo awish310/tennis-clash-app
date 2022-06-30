@@ -7,6 +7,17 @@ import ThePatriot from './the_patriot.json';
 import TheSamurai from './the_samurai.json';
 import Zeus from './zeus.json';
 
+const racketsArray = [
+  TheBullseye,
+  TheEagle,
+  TheHammer,
+  TheOutback,
+  ThePanther,
+  ThePatriot,
+  TheSamurai,
+  Zeus,
+];
+
 export {
   TheBullseye,
   TheEagle,
@@ -16,4 +27,5 @@ export {
   ThePatriot,
   TheSamurai,
   Zeus,
+  racketsArray,
 };
