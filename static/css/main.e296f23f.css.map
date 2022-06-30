@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e296f23f.css","mappings":"AAAA,WACE,2BAA8B,CAG9B,eAAiB,CAFjB,oIAGF","sources":["index.css"],"sourcesContent":["@font-face {\n  font-family: 'UbuntuCondensed';\n  src: local('UbuntuCondensed'),\n    url('./fonts/UbuntuCondensed-Regular.ttf') format('truetype');\n  font-weight: bold;\n}\n"],"names":[],"sourceRoot":""}
