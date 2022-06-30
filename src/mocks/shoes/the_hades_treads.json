@@ -1,6 +1,6 @@
 {
   "name": "The Hades Treads",
-  "imageSrc": "/assets/shoes/TheHadesTreads.webp",
+  "imageSrc": "assets/shoes/TheHadesTreads.webp",
   "values": {
     "4": { "agility": 15 },
     "5": { "agility": 20 },

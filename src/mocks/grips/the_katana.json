@@ -1,6 +1,6 @@
 {
   "name": "The Katana",
-  "imageSrc": "/assets/grips/TheKatana.webp",
+  "imageSrc": "assets/grips/TheKatana.webp",
   "values": {
     "3": {
       "volley": 5,

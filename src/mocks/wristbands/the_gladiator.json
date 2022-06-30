@@ -1,6 +1,6 @@
 {
   "name": "The Gladiator",
-  "imageSrc": "/assets/wristbands/TheGladiator.webp",
+  "imageSrc": "assets/wristbands/TheGladiator.webp",
   "values": {
     "4": { "volley": 14 },
     "5": { "volley": 18 },

@@ -1,6 +1,6 @@
 {
   "name": "Lean Protein",
-  "imageSrc": "/assets/nutritions/LeanProtein.webp",
+  "imageSrc": "assets/nutritions/LeanProtein.webp",
   "values": {
     "4": { "stamina": 13 },
     "5": { "stamina": 17 },

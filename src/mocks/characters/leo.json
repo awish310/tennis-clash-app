@@ -1,6 +1,6 @@
 {
   "name": "Leo",
-  "imageSrc": "/assets/characters/Leo.webp",
+  "imageSrc": "assets/characters/Leo.webp",
   "values": {
     "1": {
       "agility": 3,

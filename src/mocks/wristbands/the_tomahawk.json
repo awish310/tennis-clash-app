@@ -1,6 +1,6 @@
 {
   "name": "The Tomahawk",
-  "imageSrc": "/assets/wristbands/TheTomahawk.webp",
+  "imageSrc": "assets/wristbands/TheTomahawk.webp",
   "values": {
     "4": { "volley": 13 },
     "5": { "volley": 17 },

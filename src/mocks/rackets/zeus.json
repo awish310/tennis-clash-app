@@ -1,6 +1,6 @@
 {
   "name": "Zeus",
-  "imageSrc": "/assets/rackets/Zeus.webp",
+  "imageSrc": "assets/rackets/Zeus.webp",
   "values": {
     "1": {
       "agility": 5,

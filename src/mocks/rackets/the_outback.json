@@ -1,6 +1,6 @@
 {
   "name": "The Outback",
-  "imageSrc": "/assets/rackets/TheOutback.webp",
+  "imageSrc": "assets/rackets/TheOutback.webp",
   "values": {
     "4": {
       "backhand": 10,

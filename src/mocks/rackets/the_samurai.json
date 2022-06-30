@@ -1,6 +1,6 @@
 {
   "name": "The Samurai",
-  "imageSrc": "/assets/rackets/TheSamurai.webp",
+  "imageSrc": "assets/rackets/TheSamurai.webp",
   "values": {
     "3": {
       "agility": 3,

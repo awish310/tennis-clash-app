@@ -1,6 +1,6 @@
 {
   "name": "The Patriot",
-  "imageSrc": "/assets/rackets/ThePatriot.webp",
+  "imageSrc": "assets/rackets/ThePatriot.webp",
   "values": {
     "4": {
       "backhand": 7,

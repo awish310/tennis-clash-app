@@ -1,6 +1,6 @@
 {
   "name": "Mountain Climber",
-  "imageSrc": "/assets/workouts/MountainClimber.webp",
+  "imageSrc": "assets/workouts/MountainClimber.webp",
   "values": {
     "3": { "backhand": 4, "serve": 4 },
     "4": { "backhand": 5, "serve": 7 },

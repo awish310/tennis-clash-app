@@ -1,6 +1,6 @@
 {
   "name": "Macrobiotic",
-  "imageSrc": "/assets/nutritions/Macrobiotic.webp",
+  "imageSrc": "assets/nutritions/Macrobiotic.webp",
   "values": {
     "4": { "volley": 11, "stamina": 1 },
     "5": { "volley": 11, "stamina": 4 },

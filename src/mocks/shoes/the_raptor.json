@@ -1,6 +1,6 @@
 {
   "name": "The Raptor",
-  "imageSrc": "/assets/shoes/TheRaptor.webp",
+  "imageSrc": "assets/shoes/TheRaptor.webp",
   "values": {
     "1": { "stamina": 3, "agility": 1 },
     "2": { "stamina": 4, "agility": 4 },

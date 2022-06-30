@@ -1,6 +1,6 @@
 {
   "name": "Jolly Roger",
-  "imageSrc": "/assets/wristbands/JollyRoger.webp",
+  "imageSrc": "assets/wristbands/JollyRoger.webp",
   "values": {
     "4": { "serve": 11, "volley": 2 },
     "5": { "serve": 12, "volley": 5 },

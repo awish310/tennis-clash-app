@@ -1,6 +1,6 @@
 {
   "name": "Carboload",
-  "imageSrc": "/assets/nutritions/Carboload.webp",
+  "imageSrc": "assets/nutritions/Carboload.webp",
   "values": {
     "4": { "forehand": 10, "stamina": 1 },
     "5": { "forehand": 10, "stamina": 4 },

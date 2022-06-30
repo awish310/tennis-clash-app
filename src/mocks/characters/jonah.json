@@ -1,6 +1,6 @@
 {
   "name": "Jonah",
-  "imageSrc": "/assets/characters/Jonah.webp",
+  "imageSrc": "assets/characters/Jonah.webp",
   "values": {
     "1": {
       "agility": 6,

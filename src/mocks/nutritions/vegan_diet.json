@@ -1,6 +1,6 @@
 {
   "name": "Vegan Diet",
-  "imageSrc": "/assets/nutritions/VeganDiet.webp",
+  "imageSrc": "assets/nutritions/VeganDiet.webp",
   "values": {
     "1": { "volley": 3, "stamina": 0 },
     "2": { "volley": 4, "stamina": 2 },

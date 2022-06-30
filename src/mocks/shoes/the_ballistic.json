@@ -1,6 +1,6 @@
 {
   "name": "The Ballistic",
-  "imageSrc": "/assets/shoes/TheBallistic.webp",
+  "imageSrc": "assets/shoes/TheBallistic.webp",
   "values": {
     "3": {
       "serve": 5,

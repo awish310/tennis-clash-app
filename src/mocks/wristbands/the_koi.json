@@ -1,6 +1,6 @@
 {
   "name": "The Koi",
-  "imageSrc": "/assets/wristbands/TheKoi.webp",
+  "imageSrc": "assets/wristbands/TheKoi.webp",
   "values": {
     "4": { "agility": 7, "volley": 2 },
     "5": { "agility": 7, "volley": 5 },

@@ -1,6 +1,6 @@
 {
   "name": "Natural Energy",
-  "imageSrc": "/assets/nutritions/NaturalEnergy.webp",
+  "imageSrc": "assets/nutritions/NaturalEnergy.webp",
   "values": {
     "3": { "stamina": 3, "volley": 5 },
     "4": { "stamina": 6, "volley": 5 },

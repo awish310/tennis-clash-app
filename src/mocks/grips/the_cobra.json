@@ -1,6 +1,6 @@
 {
   "name": "The Cobra",
-  "imageSrc": "/assets/grips/TheCobra.webp",
+  "imageSrc": "assets/grips/TheCobra.webp",
   "values": {
     "4": {
       "forehand": 10,

@@ -1,6 +1,6 @@
 {
   "name": "Hope",
-  "imageSrc": "/assets/characters/Hope.webp",
+  "imageSrc": "assets/characters/Hope.webp",
   "values": {
     "1": {
       "agility": 3,

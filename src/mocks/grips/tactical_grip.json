@@ -1,6 +1,6 @@
 {
   "name": "Tactical Grip",
-  "imageSrc": "/assets/grips/TacticalGrip.webp",
+  "imageSrc": "assets/grips/TacticalGrip.webp",
   "values": {
     "1": {
       "volley": 8,

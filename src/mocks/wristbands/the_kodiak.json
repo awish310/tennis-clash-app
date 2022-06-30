@@ -1,6 +1,6 @@
 {
   "name": "The Kodiak",
-  "imageSrc": "/assets/wristbands/Thekodiak.webp",
+  "imageSrc": "assets/wristbands/Thekodiak.webp",
   "values": {
     "3": { "agility": 3, "volley": 3 },
     "4": { "agility": 3, "volley": 6 },

@@ -1,6 +1,6 @@
 {
   "name": "Weight Lifting",
-  "imageSrc": "/assets/workouts/WeightLifting.webp",
+  "imageSrc": "assets/workouts/WeightLifting.webp",
   "values": {
     "1": { "stamina": 4, "serve": 1 },
     "2": { "stamina": 5, "serve": 2 },

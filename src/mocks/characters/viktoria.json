@@ -1,6 +1,6 @@
 {
   "name": "Viktoria",
-  "imageSrc": "/assets/characters/Viktoria.webp",
+  "imageSrc": "assets/characters/Viktoria.webp",
   "values": {
     "1": {
       "agility": 3,

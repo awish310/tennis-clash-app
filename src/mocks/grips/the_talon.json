@@ -1,6 +1,6 @@
 {
   "name": "The Talon",
-  "imageSrc": "/assets/grips/TheTalon.webp",
+  "imageSrc": "assets/grips/TheTalon.webp",
   "values": {
     "4": {
       "forehand": 7,

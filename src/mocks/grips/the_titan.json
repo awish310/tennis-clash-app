@@ -1,6 +1,6 @@
 {
   "name": "The Titan",
-  "imageSrc": "/assets/grips/TheTitan.webp",
+  "imageSrc": "assets/grips/TheTitan.webp",
   "values": {
     "4": {
       "backhand": 17

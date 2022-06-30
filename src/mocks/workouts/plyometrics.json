@@ -1,6 +1,6 @@
 {
   "name": "Plyometrics",
-  "imageSrc": "/assets/workouts/Plyometrics.webp",
+  "imageSrc": "assets/workouts/Plyometrics.webp",
   "values": {
     "1": { "backhand": 3, "serve": 1 },
     "2": { "backhand": 3, "serve": 3 },

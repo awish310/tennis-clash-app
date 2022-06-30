@@ -1,6 +1,6 @@
 {
   "name": "The Shuriken",
-  "imageSrc": "/assets/shoes/TheShuriken.webp",
+  "imageSrc": "assets/shoes/TheShuriken.webp",
   "values": {
     "4": {
       "serve": 11,

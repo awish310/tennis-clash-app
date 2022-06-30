@@ -1,6 +1,6 @@
 {
   "name": "Lunges",
-  "imageSrc": "/assets/workouts/Lunges.webp",
+  "imageSrc": "assets/workouts/Lunges.webp",
   "values": {
     "4": { "serve": 15 },
     "5": { "serve": 20 },

@@ -1,6 +1,6 @@
 {
   "name": "The Hunter",
-  "imageSrc": "/assets/shoes/TheHunter.webp",
+  "imageSrc": "assets/shoes/TheHunter.webp",
   "values": {
     "1": {
       "serve": 3,

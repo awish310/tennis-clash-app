@@ -1,6 +1,6 @@
 {
   "name": "Keto Sourcing",
-  "imageSrc": "/assets/nutritions/KetoSourcing.webp",
+  "imageSrc": "assets/nutritions/KetoSourcing.webp",
   "values": {
     "4": { "stamina": 14 },
     "5": { "stamina": 18 },

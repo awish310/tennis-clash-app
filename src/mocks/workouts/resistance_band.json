@@ -1,6 +1,6 @@
 {
   "name": "Resistance Band",
-  "imageSrc": "/assets/workouts/ResistanceBand.webp",
+  "imageSrc": "assets/workouts/ResistanceBand.webp",
   "values": {
     "4": { "backhand": 10, "serve": 3 },
     "5": { "backhand": 10, "serve": 6 },

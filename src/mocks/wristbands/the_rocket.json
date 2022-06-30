@@ -1,6 +1,6 @@
 {
   "name": "The Rocket",
-  "imageSrc": "/assets/wristbands/TheRocket.webp",
+  "imageSrc": "assets/wristbands/TheRocket.webp",
   "values": {
     "1": { "agility": 2, "volley": 0 },
     "2": { "agility": 3, "volley": 1 },

@@ -1,6 +1,6 @@
 {
   "name": "The Eagle",
-  "imageSrc": "/assets/rackets/TheEagle.webp",
+  "imageSrc": "assets/rackets/TheEagle.webp",
   "values": {
     "1": {
       "agility": 2,

@@ -1,6 +1,6 @@
 {
   "name": "The Forge",
-  "imageSrc": "/assets/grips/TheForge.webp",
+  "imageSrc": "assets/grips/TheForge.webp",
   "values": {
     "4": {
       "forehand": 7,

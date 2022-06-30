@@ -1,6 +1,6 @@
 {
   "name": "Florence",
-  "imageSrc": "/assets/characters/Florence.webp",
+  "imageSrc": "assets/characters/Florence.webp",
   "values": {
     "1": {
       "agility": 5,

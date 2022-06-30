@@ -1,6 +1,6 @@
 {
   "name": "Diana",
-  "imageSrc": "/assets/characters/Diana.webp",
+  "imageSrc": "assets/characters/Diana.webp",
   "values": {
     "1": {
       "agility": 4,

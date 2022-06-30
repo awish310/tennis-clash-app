@@ -1,6 +1,6 @@
 {
   "name": "The Machete",
-  "imageSrc": "/assets/grips/TheMachete.webp",
+  "imageSrc": "assets/grips/TheMachete.webp",
   "values": {
     "3": {
       "backhand": 12

@@ -1,6 +1,6 @@
 {
   "name": "Sprint",
-  "imageSrc": "/assets/workouts/Sprint.webp",
+  "imageSrc": "assets/workouts/Sprint.webp",
   "values": {
     "4": { "serve": 14 },
     "5": { "serve": 19 },

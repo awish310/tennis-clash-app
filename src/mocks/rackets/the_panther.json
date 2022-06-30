@@ -1,6 +1,6 @@
 {
   "name": "The Panther",
-  "imageSrc": "/assets/rackets/ThePanther.webp",
+  "imageSrc": "assets/rackets/ThePanther.webp",
   "values": {
     "3": {
       "forehand": 12

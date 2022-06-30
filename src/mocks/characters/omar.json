@@ -1,6 +1,6 @@
 {
   "name": "Omar",
-  "imageSrc": "/assets/characters/Omar.webp",
+  "imageSrc": "assets/characters/Omar.webp",
   "values": {
     "1": {
       "agility": 3,

@@ -1,6 +1,6 @@
 {
   "name": "Increased Hydration",
-  "imageSrc": "/assets/nutritions/IncreasedHydration.webp",
+  "imageSrc": "assets/nutritions/IncreasedHydration.webp",
   "values": {
     "3": { "forehand": 4, "stamina": 3 },
     "4": { "forehand": 4, "stamina": 6 },

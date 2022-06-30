@@ -1,6 +1,6 @@
 {
   "name": "The Piranha",
-  "imageSrc": "/assets/shoes/ThePiranha.webp",
+  "imageSrc": "assets/shoes/ThePiranha.webp",
   "values": {
     "4": { "stamina": 12, "agility": 8 },
     "5": { "stamina": 12, "agility": 12 },

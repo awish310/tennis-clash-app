@@ -1,6 +1,6 @@
 {
   "name": "Luc",
-  "imageSrc": "/assets/characters/Luc.webp",
+  "imageSrc": "assets/characters/Luc.webp",
   "values": {
     "1": {
       "agility": 3,

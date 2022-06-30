@@ -1,6 +1,6 @@
 {
   "name": "The Bullseye",
-  "imageSrc": "/assets/rackets/TheBullseye.webp",
+  "imageSrc": "assets/rackets/TheBullseye.webp",
   "values": {
     "4": {
       "forehand": 17

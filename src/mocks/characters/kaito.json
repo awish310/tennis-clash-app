@@ -1,6 +1,6 @@
 {
   "name": "Kaito",
-  "imageSrc": "/assets/characters/Kaito.webp",
+  "imageSrc": "assets/characters/Kaito.webp",
   "values": {
     "1": {
       "agility": 6,

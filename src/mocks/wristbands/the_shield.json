@@ -1,6 +1,6 @@
 {
   "name": "The Shield",
-  "imageSrc": "/assets/wristbands/TheShield.webp",
+  "imageSrc": "assets/wristbands/TheShield.webp",
   "values": {
     "3": { "serve": 5, "volley": 3 },
     "4": { "serve": 5, "volley": 6 },

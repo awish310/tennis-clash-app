@@ -1,6 +1,6 @@
 {
   "name": "The Hammer",
-  "imageSrc": "/assets/rackets/TheHammer.webp",
+  "imageSrc": "assets/rackets/TheHammer.webp",
   "values": {
     "4": {
       "backhand": 7,

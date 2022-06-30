@@ -1,6 +1,6 @@
 {
   "name": "Endurance",
-  "imageSrc": "/assets/workouts/Endurance.webp",
+  "imageSrc": "assets/workouts/Endurance.webp",
   "values": {
     "3": { "stamina": 5, "serve": 4 },
     "4": { "stamina": 5, "serve": 8 },

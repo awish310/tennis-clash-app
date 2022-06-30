@@ -1,6 +1,6 @@
 {
   "name": "Mei-Li",
-  "imageSrc": "/assets/characters/Mei-Li.webp",
+  "imageSrc": "assets/characters/Mei-Li.webp",
   "values": {
     "1": {
       "agility": 3,

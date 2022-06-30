@@ -1,6 +1,6 @@
 {
   "name": "Antioxidants",
-  "imageSrc": "/assets/nutritions/Antioxidants.webp",
+  "imageSrc": "assets/nutritions/Antioxidants.webp",
   "values": {
     "1": { "forehand": 3, "stamina": 0 },
     "2": { "forehand": 3, "stamina": 1 },

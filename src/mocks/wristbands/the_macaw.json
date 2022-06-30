@@ -1,6 +1,6 @@
 {
   "name": "The Macaw",
-  "imageSrc": "/assets/wristbands/TheMacaw.webp",
+  "imageSrc": "assets/wristbands/TheMacaw.webp",
   "values": {
     "1": { "serve": 3, "volley": 0 },
     "2": { "serve": 4, "volley": 2 },

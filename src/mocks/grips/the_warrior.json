@@ -1,6 +1,6 @@
 {
   "name": "The Warrior",
-  "imageSrc": "/assets/grips/TheWarrior.webp",
+  "imageSrc": "assets/grips/TheWarrior.webp",
   "values": {
     "1": {
       "volley": 3,

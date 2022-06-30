@@ -1,6 +1,6 @@
 {
   "name": "Powerlifting",
-  "imageSrc": "/assets/workouts/Powerlifting.webp",
+  "imageSrc": "assets/workouts/Powerlifting.webp",
   "values": {
     "4": { "stamina": 12, "serve": 3 },
     "5": { "stamina": 12, "serve": 6 },

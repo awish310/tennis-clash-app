@@ -1,6 +1,6 @@
 {
   "name": "The Feather",
-  "imageSrc": "/assets/shoes/TheFeather.webp",
+  "imageSrc": "assets/shoes/TheFeather.webp",
   "values": {
     "4": { "agility": 15 },
     "5": { "agility": 19 },
