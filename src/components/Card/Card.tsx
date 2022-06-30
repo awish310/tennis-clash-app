@@ -90,7 +90,10 @@ const Card = ({
               </AbilitiesListWrapper>
             )}
             <ImageWrapper background={getCharacterImageBgColor(name)}>
-              <Image isCharacter={isCharacter} src={cardData?.imageSrc} />
+              <Image
+                isCharacter={isCharacter}
+                src={`${process.env.PUBLIC_URL}/${cardData?.imageSrc}`}
+              />
             </ImageWrapper>
             <NameWrapper>
               <Name editable={editable} color={getTextColor(cardData?.rarity)}>
