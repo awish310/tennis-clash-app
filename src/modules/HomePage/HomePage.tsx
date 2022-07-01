@@ -43,6 +43,7 @@ const HomePage = () => {
   const onCheck = () => {
     const results = configurationsService.getBestConfigurations(properties);
     setResults(results);
+    setSelectedResultIdx(0);
   };
 
   const onSave = (value: any, type: PropertyType) => {
