@@ -34,6 +34,8 @@ const HomePage = () => {
   });
   const [results, setResults] = useState([]);
   const [selectedResultIdx, setSelectedResultIdx] = useState<number>(0);
+  const [isPropertySelectionOpen, setIsPropertySelectionOpen] =
+    useState<boolean>(false);
 
   useEffect(() => {
     const prevSelectedProps: any = getSelectedCalcProps();
@@ -80,6 +82,7 @@ const HomePage = () => {
           onSave={(value) => {
             onSave(value, type);
           }}
+          onOpen={(isOpen: boolean) => setIsPropertySelectionOpen(isOpen)}
         />
       )
     );
@@ -133,8 +136,6 @@ const HomePage = () => {
     return <></>;
   };
 
-  console.log(isSelectedCardsValid());
-
   return (
     <Wrapper>
       <Header>
@@ -143,7 +144,7 @@ const HomePage = () => {
           label="CHECK"
           primary
           onClick={onCheck}
-          disabled={!isSelectedCardsValid()}
+          disabled={!isSelectedCardsValid() || isPropertySelectionOpen}
         />
       </Header>
       <Main>

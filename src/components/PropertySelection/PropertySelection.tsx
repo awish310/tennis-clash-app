@@ -22,9 +22,15 @@ interface PropertySelectionProps {
   type: PropertyType;
   value: any;
   onSave: (value: any) => void;
+  onOpen: (isOpen: boolean) => void;
 }
 
-const PropertySelection = ({ type, value, onSave }: PropertySelectionProps) => {
+const PropertySelection = ({
+  type,
+  value,
+  onSave,
+  onOpen,
+}: PropertySelectionProps) => {
   const [edit, isEdit] = useState(false);
   const [inputValue, setInputValue] = useState(value);
   const targetRef = useRef<any>();
@@ -102,6 +108,7 @@ const PropertySelection = ({ type, value, onSave }: PropertySelectionProps) => {
               color="#14d72c"
               onClick={() => {
                 !!options.length && isEdit(true);
+                onOpen(true);
               }}
             />
           ) : (
@@ -111,6 +118,7 @@ const PropertySelection = ({ type, value, onSave }: PropertySelectionProps) => {
               onClick={() => {
                 onSave(inputValue);
                 isEdit(false);
+                onOpen(false);
               }}
             />
           )}
